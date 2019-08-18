@@ -230,10 +230,8 @@ if ($my_type == 'Download') {
     /* Now we need to find our best format in the list of available formats */
     $best_format = '';
     for ($i = 0; $i < count($target_formats); $i++) {
-        for($j = 0;
-        $j < count($avai l_formats);
-        $j++) {
-            if($tar get_formats[$i] == $avail_formats[$j]['itag'] ) {
+        for ($j = 0; $j < count($avail_formats); $j++) {
+            if ($target_formats[$i] == $avail_formats[$j]['itag']) {
                 //echo '<p>Target format found, it is '. $avail_formats[$j]['itag'] .'</p>';
                 $best_format = $j;
                 break 2;
