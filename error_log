@@ -1,0 +1,9 @@
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Undefined index: q in /home/filebirb/public_html/forum/demo/new/head.php on line 8
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Undefined index: q in /home/filebirb/public_html/forum/demo/new/head.php on line 10
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Undefined index: q in /home/filebirb/public_html/forum/demo/new/head.php on line 13
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Undefined index: list in /home/filebirb/public_html/forum/demo/new/index.php on line 21
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Undefined index: q in /home/filebirb/public_html/forum/demo/new/index.php on line 22
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Use of undefined constant nextToken - assumed 'nextToken' in /home/filebirb/public_html/forum/demo/new/index.php on line 57
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Use of undefined constant nextToken - assumed 'nextToken' in /home/filebirb/public_html/forum/demo/new/index.php on line 64
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Use of undefined constant prevToken - assumed 'prevToken' in /home/filebirb/public_html/forum/demo/new/index.php on line 66
+[27-Aug-2015 14:07:21 Etc/GMT] PHP Notice:  Undefined index: prevToken in /home/filebirb/public_html/forum/demo/new/index.php on line 66
